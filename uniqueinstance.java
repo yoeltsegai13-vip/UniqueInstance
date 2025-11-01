@@ -5,4 +5,7 @@ public class uniqueinstance {
     {
         uniqueId = idCounter++;
     }
+    public UniqueInstance(String data) {
+        this.data = data;
+    }
 }
