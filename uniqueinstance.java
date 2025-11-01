@@ -11,4 +11,7 @@ public class uniqueinstance {
     public int getUniqueId() {
         return uniqueId;
     }
+    public String getData() {
+        return data;
+    }
 }
