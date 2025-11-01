@@ -8,4 +8,7 @@ public class uniqueinstance {
     public UniqueInstance(String data) {
         this.data = data;
     }
+    public int getUniqueId() {
+        return uniqueId;
+    }
 }
