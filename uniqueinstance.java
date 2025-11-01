@@ -14,4 +14,7 @@ public class uniqueinstance {
     public String getData() {
         return data;
     }
+    public static void main(String[] args) {
+
+    }
 }
